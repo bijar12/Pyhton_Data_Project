@@ -55,7 +55,7 @@ plt.show()
 
 ### Results
 
-![Visualization of Top Skills for Data Peoples](3_Project\Images\skill_demand_all_data_roles.png)
+![Visualization of Top Skills for Data Peoples](3_Project/Images/skill_demand_all_data_roles.png)
 
 
 ### Insights
@@ -86,7 +86,7 @@ plt.show()
 ```
 ### Results
 
-![Trending Top Skills for Data Scientist in Pakistan](3_Project\Images\Skill_Trend_DS.png)
+![Trending Top Skills for Data Scientist in Pakistan](3_Project/Images/Skill_Trend_DS.png)
 *Line graph Visualizing the trending top skills for Data Scientist in Pakistan in 2023*
 
 
@@ -244,7 +244,7 @@ plt.show()
 
 ### Results
 
-![Most Optimal skills for Data Scientist in Pakistan](3_Project\Images\optimal_skills.png)
+![Most Optimal skills for Data Scientist in Pakistan](3_Project/Images/optimal_skills.png)
 
 *A scatter plot Visualizing the most optimal skills (High paying & High demand ) for Data Scientist in Pakistan.*
 
