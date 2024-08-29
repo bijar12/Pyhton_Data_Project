@@ -135,7 +135,7 @@ plt.show()
 
 ### Results
 
-![Salary Distribution of The Scientist Jobs in Pakistan](3_Project\Images\Salary_Analysis.png)
+![Salary Distribution of The Scientist Jobs in Pakistan](3_Project/Images/Salary_Analysis.png)
 *Box plot Visualizing the Salary Distribution for the top 6 Data Jobs titles.*
 
 #### Insights
